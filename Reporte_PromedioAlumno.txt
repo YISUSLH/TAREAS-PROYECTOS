@@ -1,0 +1,31 @@
+REPORTE DE SOLUCIÓN IMPLEMENTADA
+
+Nombre del proyecto: Actividad 2
+
+Objetivo:
+El objetivo de este programa es calcular el promedio de cinco calificaciones de un alumno y determinar su calificación final de acuerdo con una escala establecida.
+
+Descripción de la solución:
+Se creó una clase llamada Alumno. Esta clase contiene un atributo de tipo String llamado nombre, que almacena el nombre del estudiante, y un atributo de tipo arreglo double[], que almacena cinco calificaciones numéricas.
+
+El programa incluye tres métodos principales. El método calcularPromedio recibe el arreglo de calificaciones, suma sus cinco valores y divide el resultado entre el número total de materias. El método obtenerCalificacion recibe el promedio y regresa un carácter de acuerdo con el rango correspondiente. Finalmente, el método imprimirResultados muestra en pantalla el nombre del estudiante, las cinco calificaciones, el promedio y la calificación final.
+
+Funcionamiento:
+En el método main se creó un arreglo con cinco calificaciones y un objeto de la clase Alumno con el nombre Jesus Gabriel. Después, el programa calcula el promedio, obtiene la calificación final y muestra los resultados en consola.
+
+Datos usados:
+Calificación 1: 95
+Calificación 2: 88
+Calificación 3: 91
+Calificación 4: 84
+Calificación 5: 90
+
+Resultado:
+Promedio: 89.6
+Calificación final: B
+
+Liga al repositorio:
+Pegar aquí la liga del repositorio de GitHub.
+
+Conclusión:
+El programa cumple con los requisitos solicitados, ya que utiliza una clase con los atributos indicados, calcula el promedio mediante un método, asigna la calificación final con otro método e imprime los resultados con el formato establecido.
